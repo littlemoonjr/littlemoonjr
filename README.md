@@ -4,7 +4,7 @@ was good!
 
 ## who is this guy?
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+!(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://static.zerochan.net/Meta.Knight.full.3980406.jpg)
 
 <!--
 **littlemoonjr/littlemoonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
