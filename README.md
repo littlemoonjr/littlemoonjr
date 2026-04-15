@@ -12,7 +12,7 @@ I have made games on ![Godot](https://custom-icon-badges.demolab.com/badge/Godot
 
 I'm known a lot for being a experienced full-stack ![Roblox](https://custom-icon-badges.demolab.com/badge/Roblox-purple?logo=roblox%20studio.) Developer (but with how roblox is going right now.. big yikes!)
 
-i guess i like donuts & pizza (they are goated)
+![](https://media.tenor.com/mOA-HwPsUsMAAAAj/meta-knight-kirby.gif)i guess i like donuts & pizza (they are goated)
 
 
 ## experience
