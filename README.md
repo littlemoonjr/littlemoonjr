@@ -2,11 +2,12 @@
 **`Programmer, UI Artist, GFX Artist`**
 was good!
 
-## who is this guy?
+## who even is this guy?
 ![](https://static.zerochan.net/Meta.Knight.full.3980406.jpg)
 
-!(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://static.zerochan.net/Meta.Knight.full.3980406.jpg)
+Hey! I'm **Moon**. Welcome to my profile. I'm a programmer who specializes in backend. I can do UI Art & GFX Art efficiently and effectively.
 
+I have made games on Godot & ![](https://custom-icon-badges.demolab.com/badge/Roblox-purple?logo=roblox%20studio.) before, still hoping to learn more.
 <!--
 **littlemoonjr/littlemoonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
