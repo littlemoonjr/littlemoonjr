@@ -18,15 +18,14 @@ I'm known a lot for being a experienced full-stack ![Roblox](https://custom-icon
 
 
 
-
-<div align="right">
-  <img src="https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif" alt="i can be dum" />
-</div> 
  some games i've been working on for years
   others i've started up recently
 
   been planning a lot of these
 
+<div align="right">
+  <img src="https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif" alt="i can be dum" />
+</div> 
 
 ## experience
 ![](https://images3.alphacoders.com/135/thumb-1920-1355976.png)
