@@ -1,6 +1,7 @@
-## littlemoonjr
+### littlemoonjr
 **`Programmer, UI Artist, GFX Artist`**
 was good!
+## a pretty good guy
 
 
 <!--
