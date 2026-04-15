@@ -4,6 +4,7 @@
 was good!
 
 ## who even is this guy?
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UuK-LmV94QumN2D7Kd6_joCEY-MfHZhinA&s)
 ![](https://static.zerochan.net/Meta.Knight.full.3980406.jpg)
 
 Hey! I'm **Moon**. Welcome to my profile. I'm a programmer who specializes in backend. I can do UI Art & GFX Art pretty well.
