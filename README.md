@@ -3,6 +3,7 @@
 was good!
 
 ## who is this guy?
+!(https://static.zerochan.net/Meta.Knight.full.3980406.jpg)
 
 !(https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://static.zerochan.net/Meta.Knight.full.3980406.jpg)
 
