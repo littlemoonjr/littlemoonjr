@@ -15,9 +15,9 @@ I'm known a lot for being a experienced full-stack ![Roblox](https://custom-icon
 ##### random facts?
 
 ![](https://media.tenor.com/mOA-HwPsUsMAAAAj/meta-knight-kirby.gif) i guess i like donuts & pizza (they are goated)
-<div align="right">
-  ![](https://media.tenor.com/mOA-HwPsUsMAAAAj/meta-knight-kirby.gif)
-  i can make random things sometimes though (whenever im bored.
+
+<div align="center">
+  <img src="https://media.tenor.com/mOA-HwPsUsMAAAAj/meta-knight-kirby.gif" alt="Description" />
 </div>
 
 
