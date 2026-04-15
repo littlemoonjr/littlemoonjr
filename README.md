@@ -1,5 +1,6 @@
 # littlemoonjr
 **`Programmer, UI Artist, GFX Artist`**
+
 was good!
 
 ## who even is this guy?
@@ -7,7 +8,7 @@ was good!
 
 Hey! I'm **Moon**. Welcome to my profile. I'm a programmer who specializes in backend. I can do UI Art & GFX Art efficiently and effectively.
 
-I have made games on Godot & ![](https://custom-icon-badges.demolab.com/badge/Roblox-purple?logo=roblox%20studio.) before, still hoping to learn more.
+I have made games on ![Godot](https://custom-icon-badges.demolab.com/badge/Godot-white?logo=godot) & ![Roblox](https://custom-icon-badges.demolab.com/badge/Roblox-purple?logo=roblox%20studio.) before, still hoping to learn more.
 <!--
 **littlemoonjr/littlemoonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
