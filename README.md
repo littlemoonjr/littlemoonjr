@@ -1,8 +1,10 @@
-### littlemoonjr
+# littlemoonjr
 **`Programmer, UI Artist, GFX Artist`**
 was good!
-## a pretty good guy
 
+## who is this guy?
+
+![Banner]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://www.zerochan.net/3980406))
 
 <!--
 **littlemoonjr/littlemoonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
