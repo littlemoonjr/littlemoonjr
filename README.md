@@ -16,15 +16,13 @@ I'm known a lot for being a experienced full-stack ![Roblox](https://custom-icon
 
 ![](https://media.tenor.com/mOA-HwPsUsMAAAAj/meta-knight-kirby.gif) i guess i like donuts & pizza (they are goated)
 
-
-
- some games i've been working on for years
+<div align="right">
+  <img src="https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif" alt="i can be dum" />
+ 
+  some games i've been working on for years
   others i've started up recently
 
   been planning a lot of these
-
-<div align="right">
-  <img src="https://media.tenor.com/DLUGvl-t2QoAAAAi/kirby.gif" alt="i can be dum" />
 </div> 
 
 ## experience
