@@ -30,7 +30,7 @@ I'm known a lot for being a experienced full-stack ![Roblox](https://custom-icon
 
 ### languages
 ![Luau](https://custom-icon-badges.demolab.com/badge/Luau%20(9%20Years)-lightblue?logo=luau)
-![Python](https://custom-icon-badges.demolab.com/badge/Python%20(5%20Months)-darkblue?logo=python)
+![Python](https://custom-icon-badges.demolab.com/badge/Python%20(7%20Months)-darkblue?logo=python)
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript%20(1%20Month)-yellow?logo=javascript)
 ![HTML](https://custom-icon-badges.demolab.com/badge/HTML%20(1%20Month)-orange?logo=html)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++%20(3%20Months)-blue?logo=cplusplus)
